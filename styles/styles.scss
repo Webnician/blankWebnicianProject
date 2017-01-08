@@ -178,3 +178,31 @@ $black: #000;
   -moz-border-radius: 15px;
   -webkit-border-radius: 15px;
 }
+
+#header{
+  background-color: #BDB76B;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  border-bottom: 3px ridge #A9A9A9;
+}
+#footer{
+  background-color: #F5F5F5;
+  border-top: 3px ridge #A9A9A9;
+  padding: 2%;
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height:30px;
+  width:100%;
+}
+#sidebar{
+border-left: 1px ridge lightgrey;
+  height: 100%;
+
+}
+#contentArea{
+margin-top: 3%;
+}
+#mainContentArea{
+
+}

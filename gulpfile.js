@@ -35,8 +35,8 @@ gulp.task('browser-sync', ['sass'],  function() {
             'style/styles-production/*.css'
         ],
         open: 'external',
-        host: 'teamwork',  //your localhost
-        proxy: 'teamwork', //your localhost again
+        host: 'blankWebnician.local',  //your localhost
+        proxy: 'blankWebnician.local', //your localhost again
         port: '3000'
 
 
